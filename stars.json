@@ -1,8 +1,8 @@
 [
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 3445,
-    "open_issues_count": 17,
+    "stargazers_count": 3446,
+    "open_issues_count": 12,
     "forks_count": 1058
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "curvenote/prosemirror-docx",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 6,
     "forks_count": 6
   },
@@ -62,7 +62,7 @@
   {
     "full_name": "GoogleChromeLabs/bubblewrap",
     "stargazers_count": 1584,
-    "open_issues_count": 63,
+    "open_issues_count": 64,
     "forks_count": 112
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "remirror/remirror",
-    "stargazers_count": 1710,
-    "open_issues_count": 96,
-    "forks_count": 159
+    "stargazers_count": 1711,
+    "open_issues_count": 95,
+    "forks_count": 160
   },
   {
     "full_name": "appleple/smartblock",
@@ -92,12 +92,12 @@
   {
     "full_name": "onderceylan/pwa-asset-generator",
     "stargazers_count": 1997,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 103
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
-    "stargazers_count": 4157,
+    "stargazers_count": 4158,
     "open_issues_count": 6,
     "forks_count": 843
   },
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 29221,
+    "stargazers_count": 29223,
     "open_issues_count": 18,
     "forks_count": 1969
   },
   {
     "full_name": "jwagner/smartcrop.js",
-    "stargazers_count": 12411,
+    "stargazers_count": 12412,
     "open_issues_count": 13,
     "forks_count": 607
   },
@@ -135,7 +135,7 @@
     "full_name": "bolshchikov/js-must-watch",
     "stargazers_count": 12795,
     "open_issues_count": 9,
-    "forks_count": 901
+    "forks_count": 902
   },
   {
     "full_name": "eggheadio/egghead-react-unit-testing",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "addyosmani/es6-equivalents-in-es5",
-    "stargazers_count": 2557,
+    "stargazers_count": 2559,
     "open_issues_count": 12,
     "forks_count": 167
   },
