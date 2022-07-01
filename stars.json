@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 3538,
-    "open_issues_count": 12,
-    "forks_count": 1094
+    "stargazers_count": 3544,
+    "open_issues_count": 13,
+    "forks_count": 1098
   },
   {
     "full_name": "lukesmurray/prosemirror-async-query",
@@ -51,7 +51,7 @@
     "full_name": "outline/rich-markdown-editor",
     "stargazers_count": 2702,
     "open_issues_count": 35,
-    "forks_count": 529
+    "forks_count": 531
   },
   {
     "full_name": "whawker/react-jsx-highcharts",
@@ -62,8 +62,8 @@
   {
     "full_name": "GoogleChromeLabs/bubblewrap",
     "stargazers_count": 1605,
-    "open_issues_count": 70,
-    "forks_count": 113
+    "open_issues_count": 68,
+    "forks_count": 114
   },
   {
     "full_name": "atlassian/prosemirror-utils",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "remirror/remirror",
-    "stargazers_count": 1747,
-    "open_issues_count": 106,
+    "stargazers_count": 1749,
+    "open_issues_count": 107,
     "forks_count": 167
   },
   {
@@ -91,14 +91,14 @@
   },
   {
     "full_name": "onderceylan/pwa-asset-generator",
-    "stargazers_count": 2041,
+    "stargazers_count": 2045,
     "open_issues_count": 37,
     "forks_count": 107
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
-    "stargazers_count": 4185,
-    "open_issues_count": 1,
+    "stargazers_count": 4189,
+    "open_issues_count": 2,
     "forks_count": 844
   },
   {
@@ -109,19 +109,19 @@
   },
   {
     "full_name": "kristoferjoseph/flexboxgrid",
-    "stargazers_count": 9331,
+    "stargazers_count": 9330,
     "open_issues_count": 66,
     "forks_count": 1202
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 29246,
+    "stargazers_count": 29244,
     "open_issues_count": 18,
     "forks_count": 1969
   },
   {
     "full_name": "jwagner/smartcrop.js",
-    "stargazers_count": 12431,
+    "stargazers_count": 12432,
     "open_issues_count": 14,
     "forks_count": 607
   },
@@ -158,7 +158,7 @@
   {
     "full_name": "mjeanroy/jasmine-utils",
     "stargazers_count": 65,
-    "open_issues_count": 4,
+    "open_issues_count": 1,
     "forks_count": 10
   },
   {
