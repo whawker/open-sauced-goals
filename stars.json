@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 3558,
+    "stargazers_count": 3559,
     "open_issues_count": 15,
-    "forks_count": 1102
+    "forks_count": 1103
   },
   {
     "full_name": "lukesmurray/prosemirror-async-query",
@@ -51,7 +51,7 @@
     "full_name": "outline/rich-markdown-editor",
     "stargazers_count": 2702,
     "open_issues_count": 35,
-    "forks_count": 533
+    "forks_count": 535
   },
   {
     "full_name": "whawker/react-jsx-highcharts",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "GoogleChromeLabs/bubblewrap",
-    "stargazers_count": 1608,
+    "stargazers_count": 1609,
     "open_issues_count": 69,
     "forks_count": 114
   },
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "remirror/remirror",
-    "stargazers_count": 1752,
-    "open_issues_count": 108,
+    "stargazers_count": 1753,
+    "open_issues_count": 106,
     "forks_count": 168
   },
   {
@@ -92,13 +92,13 @@
   {
     "full_name": "onderceylan/pwa-asset-generator",
     "stargazers_count": 2049,
-    "open_issues_count": 37,
+    "open_issues_count": 33,
     "forks_count": 107
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
     "stargazers_count": 4189,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 844
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "kristoferjoseph/flexboxgrid",
-    "stargazers_count": 9332,
+    "stargazers_count": 9331,
     "open_issues_count": 66,
     "forks_count": 1200
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "jwagner/smartcrop.js",
-    "stargazers_count": 12433,
+    "stargazers_count": 12432,
     "open_issues_count": 14,
     "forks_count": 607
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "bolshchikov/js-must-watch",
-    "stargazers_count": 12808,
+    "stargazers_count": 12809,
     "open_issues_count": 9,
     "forks_count": 902
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "jeromegn/Backbone.localStorage",
-    "stargazers_count": 1913,
+    "stargazers_count": 1912,
     "open_issues_count": 9,
     "forks_count": 706
   },
