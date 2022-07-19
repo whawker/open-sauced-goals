@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 3583,
+    "stargazers_count": 3595,
     "open_issues_count": 15,
-    "forks_count": 1112
+    "forks_count": 1118
   },
   {
     "full_name": "lukesmurray/prosemirror-async-query",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "PierBover/prosemirror-cookbook",
-    "stargazers_count": 219,
+    "stargazers_count": 220,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "outline/rich-markdown-editor",
-    "stargazers_count": 2706,
+    "stargazers_count": 2704,
     "open_issues_count": 35,
-    "forks_count": 538
+    "forks_count": 539
   },
   {
     "full_name": "whawker/react-jsx-highcharts",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "GoogleChromeLabs/bubblewrap",
-    "stargazers_count": 1622,
-    "open_issues_count": 70,
+    "stargazers_count": 1624,
+    "open_issues_count": 71,
     "forks_count": 115
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "remirror/remirror",
-    "stargazers_count": 1763,
-    "open_issues_count": 104,
+    "stargazers_count": 1765,
+    "open_issues_count": 105,
     "forks_count": 172
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "onderceylan/pwa-asset-generator",
-    "stargazers_count": 2056,
+    "stargazers_count": 2066,
     "open_issues_count": 33,
     "forks_count": 107
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
-    "stargazers_count": 4204,
+    "stargazers_count": 4207,
     "open_issues_count": 6,
-    "forks_count": 845
+    "forks_count": 844
   },
   {
     "full_name": "deanhume/pwa-tips-tricks",
@@ -109,20 +109,20 @@
   },
   {
     "full_name": "kristoferjoseph/flexboxgrid",
-    "stargazers_count": 9328,
+    "stargazers_count": 9327,
     "open_issues_count": 66,
     "forks_count": 1202
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 29258,
+    "stargazers_count": 29264,
     "open_issues_count": 18,
     "forks_count": 1967
   },
   {
     "full_name": "jwagner/smartcrop.js",
     "stargazers_count": 12439,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "forks_count": 607
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "bolshchikov/js-must-watch",
-    "stargazers_count": 12814,
+    "stargazers_count": 12815,
     "open_issues_count": 9,
     "forks_count": 902
   },
@@ -171,7 +171,7 @@
     "full_name": "magalhas/backbone-react-component",
     "stargazers_count": 816,
     "open_issues_count": 11,
-    "forks_count": 77
+    "forks_count": 76
   },
   {
     "full_name": "cihadturhan/jquery-aim",
