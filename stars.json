@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 3762,
-    "open_issues_count": 11,
-    "forks_count": 1170
+    "stargazers_count": 3784,
+    "open_issues_count": 13,
+    "forks_count": 1185
   },
   {
     "full_name": "lukesmurray/prosemirror-async-query",
@@ -37,37 +37,37 @@
   },
   {
     "full_name": "rlingineni/y-serverless",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "karlhorky/pwa-tricks",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "outline/rich-markdown-editor",
-    "stargazers_count": 2717,
+    "stargazers_count": 2719,
     "open_issues_count": 35,
     "forks_count": 546
   },
   {
     "full_name": "whawker/react-jsx-highcharts",
     "stargazers_count": 400,
-    "open_issues_count": 18,
+    "open_issues_count": 17,
     "forks_count": 94
   },
   {
     "full_name": "GoogleChromeLabs/bubblewrap",
-    "stargazers_count": 1651,
-    "open_issues_count": 74,
+    "stargazers_count": 1656,
+    "open_issues_count": 73,
     "forks_count": 119
   },
   {
     "full_name": "atlassian/prosemirror-utils",
-    "stargazers_count": 336,
+    "stargazers_count": 338,
     "open_issues_count": 20,
     "forks_count": 45
   },
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "remirror/remirror",
-    "stargazers_count": 1799,
-    "open_issues_count": 108,
+    "stargazers_count": 1805,
+    "open_issues_count": 109,
     "forks_count": 176
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "onderceylan/pwa-asset-generator",
-    "stargazers_count": 2101,
+    "stargazers_count": 2106,
     "open_issues_count": 34,
     "forks_count": 107
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
-    "stargazers_count": 4243,
+    "stargazers_count": 4247,
     "open_issues_count": 2,
-    "forks_count": 853
+    "forks_count": 852
   },
   {
     "full_name": "deanhume/pwa-tips-tricks",
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 29306,
+    "stargazers_count": 29309,
     "open_issues_count": 19,
-    "forks_count": 1963
+    "forks_count": 1962
   },
   {
     "full_name": "jwagner/smartcrop.js",
     "stargazers_count": 12460,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 610
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "bolshchikov/js-must-watch",
-    "stargazers_count": 12817,
+    "stargazers_count": 12820,
     "open_issues_count": 9,
-    "forks_count": 904
+    "forks_count": 903
   },
   {
     "full_name": "eggheadio/egghead-react-unit-testing",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "addyosmani/es6-equivalents-in-es5",
-    "stargazers_count": 2554,
+    "stargazers_count": 2555,
     "open_issues_count": 12,
     "forks_count": 167
   },
