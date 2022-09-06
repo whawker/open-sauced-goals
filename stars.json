@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 3820,
+    "stargazers_count": 3839,
     "open_issues_count": 14,
-    "forks_count": 1191
+    "forks_count": 1196
   },
   {
     "full_name": "lukesmurray/prosemirror-async-query",
@@ -49,38 +49,38 @@
   },
   {
     "full_name": "outline/rich-markdown-editor",
-    "stargazers_count": 2723,
+    "stargazers_count": 2724,
     "open_issues_count": 35,
     "forks_count": 551
   },
   {
     "full_name": "whawker/react-jsx-highcharts",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 17,
     "forks_count": 94
   },
   {
     "full_name": "GoogleChromeLabs/bubblewrap",
-    "stargazers_count": 1674,
+    "stargazers_count": 1676,
     "open_issues_count": 74,
-    "forks_count": 120
+    "forks_count": 122
   },
   {
     "full_name": "atlassian/prosemirror-utils",
-    "stargazers_count": 340,
+    "stargazers_count": 341,
     "open_issues_count": 21,
     "forks_count": 46
   },
   {
     "full_name": "johnkueh/prosemirror-react-nodeviews",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 10,
     "forks_count": 15
   },
   {
     "full_name": "remirror/remirror",
     "stargazers_count": 1819,
-    "open_issues_count": 111,
+    "open_issues_count": 112,
     "forks_count": 176
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "elegantapp/pwa-asset-generator",
-    "stargazers_count": 2122,
+    "stargazers_count": 2127,
     "open_issues_count": 44,
-    "forks_count": 108
+    "forks_count": 109
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
-    "stargazers_count": 4258,
-    "open_issues_count": 3,
-    "forks_count": 853
+    "stargazers_count": 4263,
+    "open_issues_count": 6,
+    "forks_count": 852
   },
   {
     "full_name": "deanhume/pwa-tips-tricks",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "kristoferjoseph/flexboxgrid",
-    "stargazers_count": 9331,
+    "stargazers_count": 9330,
     "open_issues_count": 63,
-    "forks_count": 1205
+    "forks_count": 1206
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 29323,
+    "stargazers_count": 29332,
     "open_issues_count": 19,
-    "forks_count": 1963
+    "forks_count": 1962
   },
   {
     "full_name": "jwagner/smartcrop.js",
-    "stargazers_count": 12467,
+    "stargazers_count": 12470,
     "open_issues_count": 14,
-    "forks_count": 610
+    "forks_count": 609
   },
   {
     "full_name": "samccone/drool",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "bolshchikov/js-must-watch",
-    "stargazers_count": 12823,
+    "stargazers_count": 12821,
     "open_issues_count": 9,
-    "forks_count": 903
+    "forks_count": 902
   },
   {
     "full_name": "eggheadio/egghead-react-unit-testing",
@@ -158,12 +158,12 @@
   {
     "full_name": "mjeanroy/jasmine-utils",
     "stargazers_count": 65,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 10
   },
   {
     "full_name": "jeromegn/Backbone.localStorage",
-    "stargazers_count": 1908,
+    "stargazers_count": 1907,
     "open_issues_count": 9,
     "forks_count": 704
   },
