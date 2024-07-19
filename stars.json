@@ -1,7 +1,7 @@
 [
   {
     "full_name": "nytimes/react-prosemirror",
-    "stargazers_count": 415,
+    "stargazers_count": 416,
     "open_issues_count": 11,
     "forks_count": 14
   },
@@ -13,15 +13,15 @@
   },
   {
     "full_name": "remirror/remirror",
-    "stargazers_count": 2662,
-    "open_issues_count": 188,
+    "stargazers_count": 2663,
+    "open_issues_count": 189,
     "forks_count": 233
   },
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 5349,
+    "stargazers_count": 5356,
     "open_issues_count": 35,
-    "forks_count": 2114
+    "forks_count": 2119
   },
   {
     "full_name": "lukesmurray/prosemirror-async-query",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "curvenote/prosemirror-docx",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 9,
     "forks_count": 11
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "karlhorky/pwa-tricks",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -81,11 +81,11 @@
     "full_name": "GoogleChromeLabs/bubblewrap",
     "stargazers_count": 2275,
     "open_issues_count": 91,
-    "forks_count": 153
+    "forks_count": 152
   },
   {
     "full_name": "atlassian/prosemirror-utils",
-    "stargazers_count": 464,
+    "stargazers_count": 465,
     "open_issues_count": 2,
     "forks_count": 56
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "elegantapp/pwa-asset-generator",
-    "stargazers_count": 2675,
+    "stargazers_count": 2676,
     "open_issues_count": 50,
     "forks_count": 135
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
-    "stargazers_count": 5021,
+    "stargazers_count": 5030,
     "open_issues_count": 35,
     "forks_count": 882
   },
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 29963,
+    "stargazers_count": 29972,
     "open_issues_count": 27,
     "forks_count": 1921
   },
   {
     "full_name": "jwagner/smartcrop.js",
-    "stargazers_count": 12803,
+    "stargazers_count": 12806,
     "open_issues_count": 21,
     "forks_count": 580
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "bolshchikov/js-must-watch",
-    "stargazers_count": 13230,
+    "stargazers_count": 13231,
     "open_issues_count": 0,
     "forks_count": 891
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "jeromegn/Backbone.localStorage",
-    "stargazers_count": 1898,
+    "stargazers_count": 1897,
     "open_issues_count": 10,
     "forks_count": 683
   }
