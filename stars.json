@@ -7,8 +7,8 @@
   },
   {
     "full_name": "toolbeam/openauth",
-    "stargazers_count": 4967,
-    "open_issues_count": 74,
+    "stargazers_count": 4992,
+    "open_issues_count": 62,
     "forks_count": 155
   },
   {
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "remirror/remirror",
-    "stargazers_count": 2850,
+    "stargazers_count": 2853,
     "open_issues_count": 199,
     "forks_count": 249
   },
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 5660,
+    "stargazers_count": 5666,
     "open_issues_count": 38,
-    "forks_count": 2316
+    "forks_count": 2319
   },
   {
     "full_name": "lukesmurray/prosemirror-async-query",
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "GoogleChromeLabs/bubblewrap",
-    "stargazers_count": 2502,
+    "stargazers_count": 2503,
     "open_issues_count": 109,
     "forks_count": 179
   },
   {
     "full_name": "atlassian/prosemirror-utils",
-    "stargazers_count": 496,
+    "stargazers_count": 497,
     "open_issues_count": 3,
     "forks_count": 61
   },
@@ -116,12 +116,12 @@
   {
     "full_name": "elegantapp/pwa-asset-generator",
     "stargazers_count": 2801,
-    "open_issues_count": 57,
-    "forks_count": 143
+    "open_issues_count": 41,
+    "forks_count": 144
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
-    "stargazers_count": 5288,
+    "stargazers_count": 5292,
     "open_issues_count": 38,
     "forks_count": 891
   },
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "kristoferjoseph/flexboxgrid",
-    "stargazers_count": 9378,
+    "stargazers_count": 9379,
     "open_issues_count": 62,
     "forks_count": 1145
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 30030,
+    "stargazers_count": 30034,
     "open_issues_count": 28,
     "forks_count": 1919
   },
   {
     "full_name": "jwagner/smartcrop.js",
-    "stargazers_count": 12876,
+    "stargazers_count": 12878,
     "open_issues_count": 23,
     "forks_count": 575
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "addyosmani/es6-equivalents-in-es5",
-    "stargazers_count": 2527,
+    "stargazers_count": 2528,
     "open_issues_count": 12,
     "forks_count": 166
   }
