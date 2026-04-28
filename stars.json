@@ -7,9 +7,9 @@
   },
   {
     "full_name": "anomalyco/openauth",
-    "stargazers_count": 6854,
+    "stargazers_count": 6895,
     "open_issues_count": 145,
-    "forks_count": 255
+    "forks_count": 256
   },
   {
     "full_name": "nytimes/react-prosemirror",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "remirror/remirror",
-    "stargazers_count": 3028,
+    "stargazers_count": 3029,
     "open_issues_count": 208,
     "forks_count": 268
   },
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 5880,
+    "stargazers_count": 5886,
     "open_issues_count": 37,
     "forks_count": 2588
   },
@@ -93,7 +93,7 @@
     "full_name": "GoogleChromeLabs/bubblewrap",
     "stargazers_count": 2939,
     "open_issues_count": 147,
-    "forks_count": 291
+    "forks_count": 293
   },
   {
     "full_name": "atlassian/prosemirror-utils",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "elegantapp/pwa-asset-generator",
-    "stargazers_count": 3006,
+    "stargazers_count": 3010,
     "open_issues_count": 51,
     "forks_count": 155
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
-    "stargazers_count": 5579,
+    "stargazers_count": 5582,
     "open_issues_count": 48,
     "forks_count": 899
   },
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "kristoferjoseph/flexboxgrid",
-    "stargazers_count": 9330,
+    "stargazers_count": 9329,
     "open_issues_count": 62,
     "forks_count": 1104
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 30267,
-    "open_issues_count": 26,
-    "forks_count": 1948
+    "stargazers_count": 30270,
+    "open_issues_count": 25,
+    "forks_count": 1949
   },
   {
     "full_name": "jwagner/smartcrop.js",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "samccone/drool",
-    "stargazers_count": 1478,
+    "stargazers_count": 1477,
     "open_issues_count": 9,
     "forks_count": 53
   },
   {
     "full_name": "bolshchikov/js-must-watch",
-    "stargazers_count": 13575,
+    "stargazers_count": 13577,
     "open_issues_count": 0,
-    "forks_count": 883
+    "forks_count": 882
   },
   {
     "full_name": "eggheadio/egghead-react-unit-testing",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "addyosmani/es6-equivalents-in-es5",
-    "stargazers_count": 2519,
+    "stargazers_count": 2518,
     "open_issues_count": 12,
     "forks_count": 166
   }
