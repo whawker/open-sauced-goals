@@ -7,7 +7,7 @@
   },
   {
     "full_name": "anomalyco/openauth",
-    "stargazers_count": 7334,
+    "stargazers_count": 7343,
     "open_issues_count": 145,
     "forks_count": 312
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "remirror/remirror",
-    "stargazers_count": 3034,
+    "stargazers_count": 3033,
     "open_issues_count": 208,
     "forks_count": 267
   },
   {
     "full_name": "cypress-io/cypress-realworld-app",
-    "stargazers_count": 5907,
+    "stargazers_count": 5909,
     "open_issues_count": 28,
-    "forks_count": 2604
+    "forks_count": 2601
   },
   {
     "full_name": "lukesmurray/prosemirror-async-query",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "curvenote/prosemirror-docx",
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "open_issues_count": 16,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "OrkhanAlikhanov/prosemirror-image-uploader",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "GoogleChromeLabs/bubblewrap",
-    "stargazers_count": 3060,
+    "stargazers_count": 3062,
     "open_issues_count": 160,
-    "forks_count": 310
+    "forks_count": 311
   },
   {
     "full_name": "atlassian/prosemirror-utils",
@@ -117,7 +117,7 @@
     "full_name": "elegantapp/pwa-asset-generator",
     "stargazers_count": 3029,
     "open_issues_count": 51,
-    "forks_count": 156
+    "forks_count": 155
   },
   {
     "full_name": "PaulLeCam/react-leaflet",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "kristoferjoseph/flexboxgrid",
-    "stargazers_count": 9310,
+    "stargazers_count": 9308,
     "open_issues_count": 62,
-    "forks_count": 1097
+    "forks_count": 1096
   },
   {
     "full_name": "joshbuchea/HEAD",
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "jwagner/smartcrop.js",
-    "stargazers_count": 12960,
+    "stargazers_count": 12956,
     "open_issues_count": 23,
     "forks_count": 572
   },
   {
     "full_name": "samccone/drool",
-    "stargazers_count": 1475,
+    "stargazers_count": 1474,
     "open_issues_count": 9,
     "forks_count": 53
   },
   {
     "full_name": "bolshchikov/js-must-watch",
-    "stargazers_count": 13601,
+    "stargazers_count": 13602,
     "open_issues_count": 0,
     "forks_count": 879
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "addyosmani/es6-equivalents-in-es5",
-    "stargazers_count": 2512,
+    "stargazers_count": 2511,
     "open_issues_count": 12,
     "forks_count": 165
   }
